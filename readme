@@ -1,5 +1,9 @@
 The code for the 10707 course project.
 
+pretraining data can be downloaded at https://datadryad.org/stash/dataset/doi:10.5061/dryad.bzkh1899q
+finetuning data can be downloaded at https://drive.google.com/file/d/1Ui5u1FkL_YH9uPsMJ6I0YzdIif2WEpW1/view
+
+
 process_driams.py > process pretraining data
 model.py > defining models
 utils.py > util functions
