@@ -1,0 +1,8 @@
+The code for the 10707 course project.
+
+process_driams.py > process pretraining data
+model.py > defining models
+utils.py > util functions
+pretrain.py, pretrain_baseline.py > pretraining code
+finetune.py finetune_baseline.py > finetuning models using the full data
+finetune_na.py finetune_na_baseline.py > finetuning models using only data with KNOWN labels
